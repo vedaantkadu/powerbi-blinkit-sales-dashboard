@@ -2,6 +2,8 @@
 
 This Power BI project analyzes the sales and delivery performance of Blinkit, one of India's leading instant delivery platforms.
 
+![Dashboard Preview](dashboard_preview.png)
+
 ---
 
 ## 🚀 Project Overview
