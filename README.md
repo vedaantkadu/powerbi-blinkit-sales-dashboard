@@ -39,6 +39,12 @@ Built using:
 ## 🛠 Tools Used
 - Power BI Desktop
 - Microsoft Excel (for initial dataset handling)
+  
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
 
 ---
 
